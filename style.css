@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  text-align: center;
+  padding: 5px 0;
+}
+
+.mainArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#dogImg {
+  width: 500px;
+}
+
+#dogButton {
+  margin-top: 20px;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+}

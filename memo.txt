@@ -1,0 +1,3 @@
+公式サイト https://dog.ceo/dog-api/
+エンドポイント https://dog.ceo/api/breeds/image/random
+
